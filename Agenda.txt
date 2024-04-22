@@ -1,0 +1,206 @@
+Agenda of the Course:-
+-----------------------
+
+Intro to Spring Framework:-
+---------------------------
+
+-> What is Spring?
+
+-> Spring Vs Java EE
+
+-> Evolution of Spring
+
+-> Spring release timeline
+
+-> Different projects inside Spring
+
+
+Spring Core:-
+-------------
+
+-> Inversion of Control (IOC)
+
+-> Dependency Injection (DI)
+
+-> Different approaches for Beans creation
+
+-> Autowiring, Bean Scopes
+
+-> Aspect-Oriented Programming (AOP)
+
+
+Spring MVC:-
+-------------
+
+-> Introduction to MVC pattern
+
+-> Overview of Web Apps
+
+-> How Web Apps works?
+
+-> Spring MVC internal flow
+
+-> Create a web App using Spring MVC
+
+-> Spring MVC validation
+
+
+Thymeleaf:-
+-------------
+
+->How to build dynamic web apps
+
+-> Thymeleaf integration with spring, spring MVC, spring security
+
+
+Spring Boot:-
+--------------
+
+-> Why Spring Boot?
+
+-> Auto-Configuration
+
+-> Build Web Apps using SpringBoot, Thymeleaf, Spring MVC
+
+-> Spring Boot Dev Tools
+
+-> Spring Boot H2 Database
+
+-> Connecting to AWS MYSQL DB
+
+
+Spring Security:-
+-----------------
+
+-> Authentication & Authorization
+
+-> Securing web Apps/REST APIs using Spring Security.
+
+-> Role based access
+
+-> Cross-Site Request Forgery (CSRF)
+
+-> Cross-orgin Resource Sharing (CORS)
+
+
+Spring JDBC:-
+--------------
+
+-> Problems with Core Java JDBC
+
+-> Advantages with Spring JDBC
+
+-> Performing CRUD operations with Spring JDBC
+
+-> Details about JDBC Template 
+
+-> RowMapper
+
+
+Spring Data:-
+------------
+
+-> Why do we need ORM framework?
+
+-> Introduction to JPA
+
+-> Derived Query methods in JPA
+
+-> OneToOne, OneToMany, ManyToOne, ManyToMany mappings inside JPA/Hibernate
+
+-> Sorting, Pagination, JPQL
+
+
+Spring REST:-
+--------------
+
+-> Building Rest Services
+
+-> Consuming Rest services using OpenFeign, Web Client, RestTemplate
+
+-> Securing Rest Services
+
+-> Spring Data Rest
+
+-> HAL Explorer
+
+
+Logging:-
+----------
+
+-> Logging Severities
+
+-> How to make logging configurations inside Spring Boot
+
+-> Writing logs into a file
+
+
+
+Properties & Profiles:-
+------------------------
+
+-> How to define custom properties
+
+-> How to read properties in Java Code
+
+-> Deep dive on Spring Profiles 
+
+-> Activating a Profile
+
+-> Conditional Bean Creation using profile
+
+
+
+Actuator:-
+-----------
+
+-> Introduction to SpringBoot Actuator
+
+-> Exploring the APIs of Actuator
+
+-> Securing Actuator
+
+-> Viewing Actuator Data in Spring Boot Admin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.....................
